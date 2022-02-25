@@ -1,16 +1,57 @@
-# flutter_onboarding
+# A Flutter Grocery App(nectar)
 
-A new Flutter project.
+A conceptual design for three different types of onboarding screens for mobile apps. This project provides you with all the information you need to explore on how to work with onboarding in mobile apps.
 
-## Getting Started
+A [@nuel_nartey](https://twitter.com/nuel_nartey) Flutter Showcase project.
 
-This project is a starting point for a Flutter application.
+## UI Store Design created by [Kishore](https://www.uistore.design/items/mobile-onboarding-screens-freebie)
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/design-cover.png" />
+    </td>
+  </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-one-1.png" />
+    </td>
+    <td>
+      <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-one-2.png" />
+    </td>
+    <td>
+      <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-one-3.png" />
+    </td>
+  </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-two-1.png" />
+        </td>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-two-2.png" />
+        </td>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-two-3.png" />
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-three-1.png" />
+        </td>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-three-2.png" />
+        </td>
+        <td>
+            <img src="https://github.com/Manuelkpatsu/flutter_onboarding/blob/main/screenshots/onboarding-three-3.png" />
+        </td>
+    </tr>
+</table>
