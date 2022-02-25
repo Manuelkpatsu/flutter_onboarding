@@ -1,4 +1,4 @@
-# A Flutter Grocery App(nectar)
+# A Flutter Onboarding UI Concept
 
 A conceptual design for three different types of onboarding screens for mobile apps. This project provides you with all the information you need to explore on how to work with onboarding in mobile apps.
 
